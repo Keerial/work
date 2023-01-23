@@ -1,0 +1,333 @@
+{
+	"version": "1.0",
+	"dictionary": [
+		{                
+			"bankName": "Сбербанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank1000001000111.png",
+			"schema": "bank100000000111"
+                },
+		{
+			"bankName": "Тинькофф_Кошкабанк",
+			"logoURL": "https://koshka.top/uploads/posts/2021-12/1640316382_1-koshka-top-p-narisovannikh-kotikov-1.jpg",
+			"schema": "bank100000000004"
+		},
+                {                
+			"bankName": "ВТБ",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000005.png",
+			"schema": "bank100000000005",
+			"package_name": "ru.vtb24.mobilebanking.android"
+                },
+                {
+			"bankName": "Альфа-Банк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000008.png",
+			"schema": "bank100000000008",
+			"package_name": "ru.alfabank.mobile.android"
+                },
+		{
+			"bankName": "Райффайзенбанк_без лого",
+			"logoURL": "",
+			"schema": "bank100000000007"
+                },
+                {                
+			"bankName": "Открытие",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000015666.png",
+			"schema": "bank100000000015"
+                },
+                {                
+			"bankName": "Газпромбанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000001.png",
+			"schema": "bank100000000001"
+                },
+		{
+			"bankName": "Промсвязьбанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000010.png",
+			"schema": "bank100000000010"
+		},
+                {                
+			"bankName": "Совкомбанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000013.png",
+			"schema": "bank100000000013"
+                },
+                {                
+			"bankName": "Росбанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000012.png",
+			"schema": "bank100000000012"
+                },
+                {
+			"bankName": "Россельхозбанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000020.png",
+			"schema": "bank100000000020"
+		},
+                {
+			"bankName": "МКБ",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000025.png",
+			"schema": "bank100000000025"
+		},
+                {
+			"bankName": "Юникредит Банк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000030.png",
+			"schema": "bank100000000030"
+		},
+                {
+			"bankName": "СКБ-банк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000003.png",
+			"schema": "bank100000000003"
+		},
+                {
+			"bankName": "Газэнергобанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000043.png",
+			"schema": "bank100000000043"
+		},
+   		{
+			"bankName": "Авангард",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000028.jpg",
+			"schema": "bank100000000028"
+		},
+		{
+			"bankName": "Элплат",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000086.png",
+			"schema": "bank100000000086"
+		},
+                {
+			"bankName": "РНКБ Банк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000011.png",
+			"schema": "bank100000000011"
+		},
+                {
+			"bankName": "Экспобанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000044.png",
+			"schema": "bank100000000044"
+		},
+                {
+			"bankName": "Банк ККБ",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000054.png",
+			"schema": "bank100000000054"
+		},
+                {
+			"bankName": "Банк ВБРР",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000049.png",
+			"schema": "bank100000000049"
+		},
+                {
+			"bankName": "RSB+ Банк Русский Стандарт",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000500.png",
+			"schema": "bank100000000500"
+		},
+                {
+			"bankName": "АБ РОССИЯ",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000095.png",
+			"schema": "bank100000000095"
+		},
+                {
+			"bankName": "ДБО Фактура",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000900.png",
+			"schema": "bank100000000900"
+		},
+                {
+			"bankName": "КБ Хлынов",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000056.png",
+			"schema": "bank100000000056"
+		},
+                {
+			"bankName": "Бланк банк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000053.png",
+			"schema": "bank100000000053"
+		},
+                {
+			"bankName": "КБ Солидарность",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000121.png",
+			"schema": "bank100000000121"
+                },
+                {
+			"bankName": "Банк ДОМ.РФ",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000082.png",
+			"schema": "bank100000000082"
+                },			
+		{                
+			"bankName": "Хакасский муниципальный банк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000127.png",
+			"schema": "bank100000000127"
+                },			
+		{                
+			"bankName": "МТС-Банк_битая ссыль",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank10000000001667.png",
+			"schema": "bank100000000017"
+                },			
+		{                
+			"bankName": "Банк ПСКБ",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000087.png",
+			"schema": "bank100000000087"
+                },			
+		{                
+			"bankName": "Левобережный",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000052.png",
+			"schema": "bank100000000052"
+                },
+		{                
+			"bankName": "Ак Барс Банк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000006.png",
+			"schema": "bank100000000006"
+                },
+		{                
+			"bankName": "КБ РостФинанс",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000098.png",
+			"schema": "bank100000000098"
+                },
+		{                
+			"bankName": "Быстробанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000092.png",
+			"schema": "bank100000000092"
+                },
+		{                
+			"bankName": "МС Банк Рус",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000229.png",
+			"schema": "bank100000000229"
+                },
+                {                
+			"bankName": "Кредит Европа Банк Россия",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000027.png",
+			"schema": "bank100000000027"
+                },						
+                {                
+			"bankName": "Алмазэргиэнбанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000080.png",
+			"schema": "bank100000000080"
+                },						
+                {                
+			"bankName": "ИК Банк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000122.png",
+			"schema": "bank100000000122"
+                },
+                {                
+			"bankName": "БАНК ОРЕНБУРГ",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000124.png",
+			"schema": "bank100000000124"
+                },
+                {                
+			"bankName": "Агропромкредит",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000118.png",
+			"schema": "bank100000000118"
+                },
+                {                
+			"bankName": "Энергобанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000159.png",
+			"schema": "bank100000000159"
+                },
+                {                
+			"bankName": "КОШЕЛЕВ-БАНК",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000146.png",
+			"schema": "bank100000000146"
+                },
+                {                
+			"bankName": "СДМ-Банк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000069.png",
+			"schema": "bank100000000069"
+                },
+                {                
+			"bankName": "Мир Бизнес Банк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000140.png",
+			"schema": "bank100000000140"
+                },
+                {                
+			"bankName": "Абсолют Банк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000047.png",
+			"schema": "bank100000000047"
+                },
+                {                
+			"bankName": "Модульбанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000099.png",
+			"schema": "bank100000000099"
+                },
+                {                
+			"bankName": "Банк Акцепт",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000135.png",
+			"schema": "bank100000000135"
+                },
+                {                
+			"bankName": "Энерготрансбанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000139.png",
+			"schema": "bank100000000139"
+                },
+                {                
+			"bankName": "Сибсоцбанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000166.png",
+			"schema": "bank100000000166"
+                },
+                {                
+			"bankName": "Банк Развитие-Столица",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000172.png",
+			"schema": "bank100000000172"
+                },
+                {                
+			"bankName": "РЕСО Кредит",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000187.png",
+			"schema": "bank100000000187"
+                },
+                {                
+			"bankName": "ЮМани",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000022.png",
+			"schema": "bank100000000022"
+                },
+                {                
+			"bankName": "Банк Санкт-Петербург",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000029.png",
+			"schema": "bank100000000029"
+                },
+                {                
+			"bankName": "Кубань Кредит",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000050.png",
+			"schema": "bank100000000050"
+                },
+                {                
+			"bankName": "Точка ФК Открытие",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000065.png",
+			"schema": "bank100000000065"
+                },
+                {                
+			"bankName": "НОВИКОМБАНК",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000177.png",
+			"schema": "bank100000000177"
+                },
+                {                
+			"bankName": "РосДорБанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000084.png",
+			"schema": "bank100000000084"
+                },
+                {                
+			"bankName": "Примсоцбанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000088.png",
+			"schema": "bank100000000088"
+                },
+                {                
+			"bankName": "Банк Саратов",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000126.png",
+			"schema": "bank100000000126"
+                },
+                {                
+			"bankName": "Банк Таврический",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000173.png",
+			"schema": "bank100000000173"
+                },
+                {                
+			"bankName": "Тольяттихимбанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000152.png",
+			"schema": "bank100000000152"
+                },
+                {                
+			"bankName": "Кремлёвский",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000201.png",
+			"schema": "bank100000000201"
+                },
+                {                
+			"bankName": "Транскапиталбанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000034.png",
+			"schema": "bank100000000034"
+                },
+                {                
+			"bankName": "Челябинвестбанк",
+			"logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000094.png",
+			"schema": "bank100000000094"
+                }
+
+	]
+}
